@@ -1,0 +1,12 @@
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.xml
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.mainForm.resources
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.xml
+C:\Users\el51909\Desktop\client_server\projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb

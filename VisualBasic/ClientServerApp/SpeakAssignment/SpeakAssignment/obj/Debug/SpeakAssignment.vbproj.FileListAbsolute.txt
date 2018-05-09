@@ -1,0 +1,12 @@
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\bin\Debug\SpeakAssignment.exe.config
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\bin\Debug\SpeakAssignment.exe
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\bin\Debug\SpeakAssignment.pdb
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\bin\Debug\SpeakAssignment.xml
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.frmSpeakAssignment.resources
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.exe
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.xml
+C:\Users\el51909\Desktop\client_server\projects\SpeakAssignment\SpeakAssignment\obj\Debug\SpeakAssignment.pdb

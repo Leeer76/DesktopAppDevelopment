@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200.0" prefWidth="320.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="scenebulderintroapp.FXMLDocumentController">
+  <children>
+    <Button id="handleButtonAction" layoutX="130.0" layoutY="159.0" mnemonicParsing="false" onAction="#printHello" text="Hello" textAlignment="CENTER" textFill="RED" />
+    <Label id="lblOutput" fx:id="ourLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="18.0" layoutY="77.0" prefHeight="47.0" prefWidth="284.0" text="" textAlignment="CENTER">
+      <font>
+        <Font size="24.0" />
+      </font>
+    </Label>
+  </children>
+</AnchorPane>

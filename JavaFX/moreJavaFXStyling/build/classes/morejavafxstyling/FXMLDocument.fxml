@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="843.0" prefWidth="773.0" style="-fx-background-color:transparent;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="morejavafxstyling.FXMLDocumentController">
+  <children>
+    <Pane layoutX="177.0" layoutY="187.0" prefHeight="264.0" prefWidth="300.0" style="-fx-background-color: white;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="165.0" layoutY="336.0" prefHeight="333.0" prefWidth="335.0" style="-fx-background-color: white;&#10;-fx-background-radius: 200;">
+      <children>
+        <Pane layoutX="91.0" layoutY="-59.0" prefHeight="193.0" prefWidth="43.0" style="-fx-background-color: red;&#10;-fx-background-radius: 200;" />
+        <Pane layoutX="193.0" layoutY="-63.0" prefHeight="193.0" prefWidth="43.0" style="-fx-background-color: red;&#10;-fx-background-radius: 200;" />
+        <Pane layoutX="53.0" layoutY="-17.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: red;&#10;-fx-background-radius: 200;" />
+        <Pane layoutX="160.0" layoutY="-17.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: red;&#10;-fx-background-radius: 200;" />
+        <Button id="button" fx:id="btnLtEye" layoutX="189.0" layoutY="14.0" onAction="#leftEyeButton" prefHeight="47.951171875" prefWidth="47.0" style="-fx-background-radius: 300;&#10;-fx-background-color: white;" text="O" textFill="#7200cc">
+          <font>
+            <Font name="System Bold" size="20.0" fx:id="x1" />
+          </font>
+        </Button>
+        <Button id="button" fx:id="btnRtEye" font="$x1" layoutX="87.0" layoutY="14.0" onAction="#rightEyeButton" prefHeight="47.951171875" prefWidth="47.0" style="-fx-background-radius: 300;&#10;-fx-background-color: white;" text="O" textFill="#4100cc" />
+        <Button fx:id="btnMouth" layoutX="32.0" layoutY="210.0" mnemonicParsing="false" onAction="#MouthButton" prefHeight="56.951171875" prefWidth="271.0" style="-fx-background-color:red;&#10;-fx-background-radius:75;&#10;" text="--------------------------" textFill="WHITE" />
+        <Pane layoutX="130.0" layoutY="115.0" prefHeight="81.0" prefWidth="76.0" style="-fx-background-color: red;&#10;-fx-background-radius: 200;" />
+      </children>
+    </Pane>
+    <Pane layoutX="93.0" layoutY="256.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: orange;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="103.0" layoutY="202.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: orange;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="35.0" layoutY="210.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: orange;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="452.0" layoutY="256.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: orange;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="517.0" layoutY="210.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: orange;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="430.0" layoutY="187.0" prefHeight="109.0" prefWidth="116.0" style="-fx-background-color: orange;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="225.0" layoutY="175.0" prefHeight="27.0" prefWidth="204.0" style="-fx-background-color: green;&#10;-fx-background-radius: 200;" />
+    <Pane layoutX="268.0" layoutY="24.0" prefHeight="178.0" prefWidth="116.0" style="-fx-background-color: green;&#10;-fx-background-radius: 200;" />
+    <Label fx:id="outPutLbl" alignment="CENTER" layoutX="51.0" layoutY="634.0" prefHeight="136.0" prefWidth="567.0" style="" text="" textFill="#cc0000" wrapText="true">
+      <font>
+        <Font name="The Devil Net" size="25.0" />
+      </font>
+    </Label>
+  </children>
+</AnchorPane>

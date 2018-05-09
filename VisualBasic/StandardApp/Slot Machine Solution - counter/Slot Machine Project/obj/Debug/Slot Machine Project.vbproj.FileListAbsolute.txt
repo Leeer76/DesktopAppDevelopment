@@ -1,0 +1,19 @@
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\bin\Debug\Slot Machine Project.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\bin\Debug\Slot Machine Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\bin\Debug\Slot Machine Project.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\bin\Debug\Slot Machine Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\obj\Debug\Slot Machine Project.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\obj\Debug\Slot_Machine_Project.slotForm.resources
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\obj\Debug\Slot_Machine_Project.Resources.resources
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\obj\Debug\Slot Machine Project.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\obj\Debug\Slot Machine Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\obj\Debug\Slot Machine Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution\Slot Machine Project\obj\Debug\Slot Machine Project.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\bin\Debug\Slot Machine Project.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\obj\Debug\Slot Machine Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\obj\Debug\Slot Machine Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\obj\Debug\Slot Machine Project.pdb
+C:\Users\el51909\Desktop\Visual Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\bin\Debug\Slot Machine Project.exe.config
+C:\Users\el51909\Desktop\Visual Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\obj\Debug\Slot Machine Project.exe
+C:\Users\el51909\Desktop\Visual Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\obj\Debug\Slot Machine Project.xml
+C:\Users\el51909\Desktop\Visual Programming\Projects\Slot Machine Solution - counter\Slot Machine Project\obj\Debug\Slot Machine Project.pdb

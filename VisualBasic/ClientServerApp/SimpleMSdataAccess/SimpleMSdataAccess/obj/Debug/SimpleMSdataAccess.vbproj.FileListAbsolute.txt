@@ -1,0 +1,16 @@
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\bin\Debug\SimpleMSdataAccess.exe.config
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\bin\Debug\SimpleMSdataAccess.exe
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\bin\Debug\SimpleMSdataAccess.pdb
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\bin\Debug\SimpleMSdataAccess.xml
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.mainForm.resources
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.exe
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.xml
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.pdb
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.frmCategories.resources
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.frmCustomers.resources
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.frmEmployees.resources
+C:\Users\el51909\Desktop\client_server\projects\SimpleMSdataAccess\SimpleMSdataAccess\obj\Debug\SimpleMSdataAccess.frmsupplier.resources

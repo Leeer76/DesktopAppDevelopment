@@ -1,0 +1,13 @@
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\bin\Debug\Run Demo.exe.config
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\bin\Debug\Run Demo.exe
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\bin\Debug\Run Demo.pdb
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\bin\Debug\Run Demo.xml
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run Demo.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run_Demo.FrmMain.resources
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run_Demo.FrmRun.resources
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run_Demo.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run Demo.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run Demo.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run Demo.exe
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run Demo.xml
+C:\Users\el51909\Desktop\client_server\projects\Run Demo\Run Demo\obj\Debug\Run Demo.pdb

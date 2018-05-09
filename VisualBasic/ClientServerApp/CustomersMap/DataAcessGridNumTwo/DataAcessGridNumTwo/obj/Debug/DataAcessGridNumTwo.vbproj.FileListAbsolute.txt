@@ -1,0 +1,13 @@
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.ProductDetails.resources
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.Products.resources
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\bin\Debug\DataAcessGridNumTwo.exe.config
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\bin\Debug\DataAcessGridNumTwo.exe
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\bin\Debug\DataAcessGridNumTwo.pdb
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\bin\Debug\DataAcessGridNumTwo.xml
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.exe
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.xml
+C:\Users\el51909\Desktop\client_server\projects\DataAcessGridNumTwo\DataAcessGridNumTwo\obj\Debug\DataAcessGridNumTwo.pdb

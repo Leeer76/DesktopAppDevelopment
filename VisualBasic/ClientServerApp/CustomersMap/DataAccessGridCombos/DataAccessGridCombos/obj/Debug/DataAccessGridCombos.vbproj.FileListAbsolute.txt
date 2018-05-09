@@ -1,0 +1,13 @@
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\bin\Debug\DataAccessGridCombos.exe.config
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\bin\Debug\DataAccessGridCombos.exe
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\bin\Debug\DataAccessGridCombos.pdb
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\bin\Debug\DataAccessGridCombos.xml
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.formMain.resources
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.exe
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.xml
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.pdb
+C:\Users\el51909\Desktop\client_server\projects\DataAccessGridCombos\DataAccessGridCombos\obj\Debug\DataAccessGridCombos.frmOrdersDetails.resources

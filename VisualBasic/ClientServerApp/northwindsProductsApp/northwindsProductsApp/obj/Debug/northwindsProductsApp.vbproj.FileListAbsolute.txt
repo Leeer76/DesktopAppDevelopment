@@ -1,0 +1,12 @@
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\bin\Debug\northwindsProductsApp.exe.config
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\bin\Debug\northwindsProductsApp.exe
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\bin\Debug\northwindsProductsApp.pdb
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\bin\Debug\northwindsProductsApp.xml
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.nwProductsApp.resources
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.exe
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.xml
+C:\Users\el51909\Desktop\client_server\projects\northwindsProductsApp\northwindsProductsApp\obj\Debug\northwindsProductsApp.pdb

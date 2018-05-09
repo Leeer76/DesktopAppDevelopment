@@ -1,0 +1,12 @@
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\bin\Debug\ProductsListBoxNavigation.exe.config
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\bin\Debug\ProductsListBoxNavigation.exe
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\bin\Debug\ProductsListBoxNavigation.pdb
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\bin\Debug\ProductsListBoxNavigation.xml
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.ProductsListForm.resources
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.exe
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.xml
+C:\Users\el51909\Desktop\client_server\projects\ProductsListBoxNavigation\ProductsListBoxNavigation\obj\Debug\ProductsListBoxNavigation.pdb

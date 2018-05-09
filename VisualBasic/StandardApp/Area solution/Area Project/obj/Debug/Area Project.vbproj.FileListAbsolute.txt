@@ -1,0 +1,11 @@
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\bin\Debug\Area Project.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\bin\Debug\Area Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\bin\Debug\Area Project.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\bin\Debug\Area Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\obj\Debug\Area Project.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\obj\Debug\Area_Project.mainForm.resources
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\obj\Debug\Area_Project.Resources.resources
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\obj\Debug\Area Project.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\obj\Debug\Area Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\obj\Debug\Area Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Area solution\Area Project\obj\Debug\Area Project.pdb

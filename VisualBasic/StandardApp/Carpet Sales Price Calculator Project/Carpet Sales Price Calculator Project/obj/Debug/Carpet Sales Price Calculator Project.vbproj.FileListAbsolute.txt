@@ -1,0 +1,11 @@
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\bin\Debug\Carpet Sales Price Calculator Project.exe.config
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\bin\Debug\Carpet Sales Price Calculator Project.exe
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\bin\Debug\Carpet Sales Price Calculator Project.pdb
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\bin\Debug\Carpet Sales Price Calculator Project.xml
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\obj\Debug\Carpet Sales Price Calculator Project.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\obj\Debug\Carpet_Sales_Price_Calculator_Project.mainForm.resources
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\obj\Debug\Carpet_Sales_Price_Calculator_Project.Resources.resources
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\obj\Debug\Carpet Sales Price Calculator Project.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\obj\Debug\Carpet Sales Price Calculator Project.exe
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\obj\Debug\Carpet Sales Price Calculator Project.xml
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carpet Sales Price Calculator Project\Carpet Sales Price Calculator Project\obj\Debug\Carpet Sales Price Calculator Project.pdb

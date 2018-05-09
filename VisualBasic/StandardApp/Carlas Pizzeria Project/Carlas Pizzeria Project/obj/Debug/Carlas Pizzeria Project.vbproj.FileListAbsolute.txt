@@ -1,0 +1,15 @@
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\bin\Debug\Carlas Pizzeria Project.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\bin\Debug\Carlas Pizzeria Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\bin\Debug\Carlas Pizzeria Project.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\bin\Debug\Carlas Pizzeria Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas_Pizzeria_Project.Resources.resources
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas_Pizzeria_Project.pizzeriaForm.resources
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.pdb
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\bin\Debug\Carlas Pizzeria Project.exe.config
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.exe
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.xml
+C:\Users\el51909\Desktop\Visual Programming\Projects\Carlas Pizzeria Project\Carlas Pizzeria Project\obj\Debug\Carlas Pizzeria Project.pdb

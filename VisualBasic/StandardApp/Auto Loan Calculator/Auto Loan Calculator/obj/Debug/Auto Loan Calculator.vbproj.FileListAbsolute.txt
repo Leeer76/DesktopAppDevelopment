@@ -1,0 +1,27 @@
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.exe
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.xml
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto_Loan_Calculator.autoForm.resources
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto_Loan_Calculator.Resources.resources
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.exe
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.xml
+C:\Users\el51909\Desktop\Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.pdb
+C:\Users\el51909\Desktop\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.exe.config
+C:\Users\el51909\Desktop\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.exe
+C:\Users\el51909\Desktop\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.xml
+C:\Users\el51909\Desktop\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.pdb
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.exe.config
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.exe
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.pdb
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\bin\Debug\Auto Loan Calculator.xml
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto_Loan_Calculator.autoForm.resources
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto_Loan_Calculator.Resources.resources
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.vbproj.GenerateResource.cache
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.exe
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.xml
+C:\Users\el51909\Desktop\Old Courses\Visual Programming\Projects\Auto Loan Calculator\Auto Loan Calculator\obj\Debug\Auto Loan Calculator.pdb

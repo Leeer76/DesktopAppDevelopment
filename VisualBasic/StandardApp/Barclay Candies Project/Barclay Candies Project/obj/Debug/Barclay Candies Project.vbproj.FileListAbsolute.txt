@@ -1,0 +1,11 @@
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\bin\Debug\Barclay Candies Project.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\obj\Debug\Barclay Candies Project.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\obj\Debug\Barclay_Candies_Project.barclayForm.resources
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\obj\Debug\Barclay_Candies_Project.Resources.resources
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\obj\Debug\Barclay Candies Project.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\obj\Debug\Barclay Candies Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\bin\Debug\Barclay Candies Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\bin\Debug\Barclay Candies Project.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\bin\Debug\Barclay Candies Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\obj\Debug\Barclay Candies Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Barclay Candies Project\Barclay Candies Project\obj\Debug\Barclay Candies Project.pdb

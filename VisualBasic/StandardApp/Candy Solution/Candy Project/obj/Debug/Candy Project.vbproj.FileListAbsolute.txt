@@ -1,0 +1,11 @@
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\bin\Debug\Candy Project.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\bin\Debug\Candy Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\bin\Debug\Candy Project.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\bin\Debug\Candy Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\obj\Debug\Candy Project.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\obj\Debug\Candy_Project.mainForm.resources
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\obj\Debug\Candy_Project.Resources.resources
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\obj\Debug\Candy Project.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\obj\Debug\Candy Project.exe
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\obj\Debug\Candy Project.xml
+C:\Users\el51909\Desktop\Programming\Projects\Candy Solution\Candy Project\obj\Debug\Candy Project.pdb

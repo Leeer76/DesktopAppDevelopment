@@ -1,0 +1,13 @@
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\bin\Debug\FinalExam.xml
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.mainForm.resources
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.xml
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
+C:\Users\el51909\Desktop\client_server\projects\FinalExam\FinalExam\FinalExam\obj\Debug\FinalExam.TabsForm.resources

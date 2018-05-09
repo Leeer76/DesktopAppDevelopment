@@ -1,0 +1,12 @@
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\bin\Debug\EmployeesMapApp.exe.config
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\bin\Debug\EmployeesMapApp.exe
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\bin\Debug\EmployeesMapApp.pdb
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\bin\Debug\EmployeesMapApp.xml
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.mainForm.resources
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.exe
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.xml
+C:\Users\el51909\Desktop\client_server\projects\EmployeesMapApp\EmployeesMapApp\obj\Debug\EmployeesMapApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\bin\Debug\Cake Shoppe.exe.config
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\bin\Debug\Cake Shoppe.exe
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\bin\Debug\Cake Shoppe.pdb
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\bin\Debug\Cake Shoppe.xml
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\obj\Debug\Cake Shoppe.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\obj\Debug\Cake_Shoppe.mainForm.resources
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\obj\Debug\Cake_Shoppe.Resources.resources
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\obj\Debug\Cake Shoppe.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\obj\Debug\Cake Shoppe.exe
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\obj\Debug\Cake Shoppe.xml
+C:\Users\el51909\Desktop\Programming\Projects\Cake Shoppe\Cake Shoppe\obj\Debug\Cake Shoppe.pdb

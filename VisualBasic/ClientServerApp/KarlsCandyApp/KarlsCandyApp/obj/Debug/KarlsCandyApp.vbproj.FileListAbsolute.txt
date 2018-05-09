@@ -1,0 +1,12 @@
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\bin\Debug\KarlsCandyApp.exe.config
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\bin\Debug\KarlsCandyApp.exe
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\bin\Debug\KarlsCandyApp.pdb
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\bin\Debug\KarlsCandyApp.xml
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.mainForm.resources
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.exe
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.xml
+C:\Users\el51909\Desktop\client_server\projects\KarlsCandyApp\KarlsCandyApp\obj\Debug\KarlsCandyApp.pdb

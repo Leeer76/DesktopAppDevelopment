@@ -1,0 +1,12 @@
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\bin\Debug\ListBoxNavigation.exe.config
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\bin\Debug\ListBoxNavigation.exe
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\bin\Debug\ListBoxNavigation.pdb
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\bin\Debug\ListBoxNavigation.xml
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.frmCustomers.resources
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.exe
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.xml
+C:\Users\el51909\Desktop\client_server\projects\ListBoxNavigation\ListBoxNavigation\obj\Debug\ListBoxNavigation.pdb

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="555.0" prefWidth="996.0" style="-fx-background-color: black;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="basicanimations.FXMLDocumentController">
+  <children>
+    <Button fx:id="rightEye" layoutX="54.0" layoutY="94.0" mnemonicParsing="false" prefHeight="392.0" prefWidth="392.0" style="-fx-background-radius: 200px;&#10;-fx-background-color: white;" text="" />
+    <Label fx:id="outPut" alignment="CENTER" layoutX="152.0" layoutY="486.0" prefWidth="692.0" text="" textFill="WHITE">
+      <font>
+        <Font size="45.0" />
+      </font>
+    </Label>
+    <Button id="button" fx:id="leftEyeball" layoutX="57.0" layoutY="233.0" onAction="#handleButtonAction" prefHeight="113.0" prefWidth="114.0" style="-fx-background-radius: 200px;&#10;-fx-background-color: green;" text="" textFill="WHITE" />
+    <Button id="button" fx:id="leftPup" layoutX="76.0" layoutY="252.0" onAction="#handleButtonAction" prefHeight="74.0001220703125" prefWidth="75.9998779296875" style="-fx-background-radius: 200px;&#10;-fx-background-color: black;" text="" textFill="WHITE" />
+    <Button id="rightEye" fx:id="leftEye" layoutX="558.0" layoutY="94.0" mnemonicParsing="false" prefHeight="392.0" prefWidth="392.0" style="-fx-background-radius: 200px;&#10;-fx-background-color: white;" text="" />
+    <Button id="button" fx:id="rightEyeBall" layoutX="576.0" layoutY="225.0" onAction="#handleButtonAction" prefHeight="106.0" prefWidth="114.0" style="-fx-background-radius: 200px;&#10;-fx-background-color: green;" text="" textFill="WHITE" />
+    <Button id="button" fx:id="rightPup" layoutX="595.0" layoutY="241.0" onAction="#handleButtonAction" prefHeight="74.0001220703125" prefWidth="75.9998779296875" style="-fx-background-radius: 200px;&#10;-fx-background-color: black;" text="" textFill="WHITE" />
+    <Pane fx:id="eyeBrowLt" layoutX="100.0" layoutY="41.0" prefHeight="31.0" prefWidth="314.0" style="-fx-background-color: grey;" />
+    <Pane id="eyeBrowLt" fx:id="eyeBrowRt" layoutX="609.0" layoutY="41.0" prefHeight="31.0" prefWidth="314.0" style="-fx-background-color: grey;" />
+  </children>
+</AnchorPane>

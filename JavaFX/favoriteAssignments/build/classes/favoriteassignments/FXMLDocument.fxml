@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="428.0" prefWidth="370.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="favoriteassignments.FXMLDocumentController">
+  <children>
+    <Button id="button" fx:id="knowMeBtn" layoutX="119.0" layoutY="379.0" onAction="#knowMeBetter" text="Know Me Better" />
+    <Label alignment="CENTER" contentDisplay="CENTER" layoutX="132.0" layoutY="14.0" text="About Me" textAlignment="CENTER">
+      <font>
+        <Font name="Segoe UI" size="24.0" />
+      </font>
+    </Label>
+    <Label layoutX="14.0" layoutY="59.0" text="Name:">
+      <font>
+        <Font name="Segoe UI" size="15.0" fx:id="x1" />
+      </font>
+    </Label>
+    <Label font="$x1" layoutX="14.0" layoutY="96.0" text="Favorite Food:" />
+    <Label font="$x1" layoutX="14.0" layoutY="136.0" text="Favorite Movie:" />
+    <Label font="$x1" layoutX="14.0" layoutY="174.0" text="Favorite Color:" />
+    <Label font="$x1" layoutX="14.0" layoutY="210.0" text="Favorite Book:" />
+    <Label font="$x1" layoutX="14.0" layoutY="249.0" text="Favorite TV Show:" />
+    <Label font="$x1" layoutX="14.0" layoutY="290.0" text="Favorite  Place:" />
+    <Label font="$x1" layoutX="14.0" layoutY="328.0" text="Pet Peeve:" />
+    <Label fx:id="lblName" font="$x1" layoutX="146.0" layoutY="59.0" prefWidth="209.0" text="" />
+    <Label fx:id="lblFood" font="$x1" layoutX="146.0" layoutY="96.0" prefWidth="209.0" text="" />
+    <Label fx:id="lblMovie" font="$x1" layoutX="146.0" layoutY="136.0" prefWidth="209.0" text="" />
+    <Label fx:id="lblColor" font="$x1" layoutX="146.0" layoutY="174.0" prefWidth="209.0" text="" />
+    <Label fx:id="lblBook" font="$x1" layoutX="146.0" layoutY="210.0" prefWidth="209.0" text="" />
+    <Label fx:id="lblTV" font="$x1" layoutX="146.0" layoutY="249.0" prefWidth="209.0" text="" />
+    <Label fx:id="lblPlace" font="$x1" layoutX="146.0" layoutY="290.0" prefWidth="209.0" text="" />
+    <Label fx:id="lblPeeve" font="$x1" layoutX="146.0" layoutY="328.0" prefWidth="209.0" text="" />
+  </children>
+</AnchorPane>

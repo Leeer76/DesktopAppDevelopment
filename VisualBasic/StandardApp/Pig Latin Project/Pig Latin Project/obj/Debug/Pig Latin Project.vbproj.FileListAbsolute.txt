@@ -1,0 +1,11 @@
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\bin\Debug\Pig Latin Project.exe.config
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\bin\Debug\Pig Latin Project.exe
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\bin\Debug\Pig Latin Project.pdb
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\bin\Debug\Pig Latin Project.xml
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\obj\Debug\Pig Latin Project.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\obj\Debug\Pig_Latin_Project.mainForm.resources
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\obj\Debug\Pig_Latin_Project.Resources.resources
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\obj\Debug\Pig Latin Project.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\obj\Debug\Pig Latin Project.exe
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\obj\Debug\Pig Latin Project.xml
+C:\Users\el51909\Desktop\Visual Programming\Projects\Pig Latin Project\Pig Latin Project\obj\Debug\Pig Latin Project.pdb

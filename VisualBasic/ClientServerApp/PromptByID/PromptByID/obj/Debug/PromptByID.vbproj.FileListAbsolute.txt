@@ -1,0 +1,13 @@
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\bin\Debug\CIS272.mdb
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\bin\Debug\PromptByID.exe.config
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\bin\Debug\PromptByID.exe
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\bin\Debug\PromptByID.pdb
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\bin\Debug\PromptByID.xml
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.vbprojResolveAssemblyReference.cache
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.frmMain.resources
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.Resources.resources
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.vbproj.GenerateResource.Cache
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.vbproj.CoreCompileInputs.cache
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.exe
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.xml
+C:\Users\el51909\Desktop\client_server\projects\PromptByID\PromptByID\obj\Debug\PromptByID.pdb
